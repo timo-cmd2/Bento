@@ -14,6 +14,8 @@
   
   #### Installation
   
+  > Note: This version is not yet finished and not production-ready!
+  
   ```
   swift build
   ```
